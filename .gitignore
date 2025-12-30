@@ -1,0 +1,82 @@
+# ----------------------------
+# Visual Studio Code
+# ----------------------------
+.vscode/
+*.code-workspace
+
+# VSCode local history & settings
+.history/
+*.log
+
+# ----------------------------
+# Windows OS
+# ----------------------------
+# Thumbnails and system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# ----------------------------
+# C / C++ build artifacts
+# ----------------------------
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled Static/Dynamic libraries
+*.slo
+*.def
+*.exp
+
+# ----------------------------
+# Markdown / Documentation
+# ----------------------------
+# Temporary files created by editors
+*.tmp
+*.bak
+*.swp
+*~
+
+# Exported/compiled docs
+*.html
+*.pdf
+
+# ----------------------------
+# General
+# ----------------------------
+# Backup files
+*.old
+
+# Logs
+*.log
+
+# Cache
+.cache/
